@@ -42,7 +42,7 @@
 
 **O Portfólio** foi desenvolvido para recrutadores conhecerem meu currículo de forma criativa,  e ter acesso ao máximo de informaçôes sobre minhas experiências e formações.
 
-A aplicação é totalmente responsiva e construida com JavaScript  Vanilla.
+A aplicação é totalmente responsiva e construída com JavaScript  Vanilla.
 
 Se você gostou do projeto, faça um fork e monte o seu portfólio também! 
 
