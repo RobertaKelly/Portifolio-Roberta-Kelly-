@@ -40,7 +40,7 @@
 <img src="https://github.com/JulianaAmoriN/PotifolioJAN/blob/master/image/banner.jpg?raw=true" width="60%" height="40%">
 </p>
 
-**O Portfólio** foi desenvolvido para recrutadores conhecerem meu currículo de forma criativa,  e ter acesso ao máximo de informação sobre minha experiências e formação.
+**O Portfólio** foi desenvolvido para recrutadores conhecerem meu currículo de forma criativa,  e ter acesso ao máximo de informaçôes sobre minha experiências e formação.
 
 A aplicação é totalmente responsiva e construida com JavaScript  Vanilla.
 
