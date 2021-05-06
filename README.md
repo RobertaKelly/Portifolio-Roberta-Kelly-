@@ -1,5 +1,5 @@
-<h1 align="center">< Portfólio Juliana Silveira /> </h1>
-<h3 align="center"> Projeto desenvolvido por Juliana Sileira </h3>
+<h1 align="center">< Portfólio Roberta Kelly /> </h1>
+<h3 align="center"> Projeto desenvolvido por Roberta Kelly </h3>
 <p align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
@@ -7,11 +7,11 @@
 </p>
 
 <p align="center"> 
-<a href="https://github.com/JulianaAmoriN/PotifolioJAN"><strong>Explorar Docs</a>
+<a href="https://github.com/RobertaKelly"><strong>Explorar Docs</a>
     ·
-<a href="https://github.com/JulianaAmoriN/PotifolioJAN/issues">Reportar Bug</a>
+<a href="">Reportar Bug</a>
  ·
-<a href="https://juliana-silveira.vercel.app/">Deploy</a>
+<a href="">Deploy</a>
 </p>
 
 <details open="open">
@@ -37,7 +37,7 @@
 
 ## Sobre o projeto
 <p align="center">
-<img src="https://github.com/JulianaAmoriN/PotifolioJAN/blob/master/image/banner.jpg?raw=true" width="60%" height="40%">
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFbmY_wXdlyxQ/profile-displayphoto-shrink_800_800/0/1616708362406?e=1625702400&v=beta&t=xGKPoVViJ3fiL97g7SGObb5OdJaZhEQV1oCPaXA2g_c" width="60%" height="40%">
 </p>
 
 **O Portfólio** foi desenvolvido para recrutadores conhecerem meu currículo de forma criativa,  e ter acesso ao máximo de informaçôes sobre minhas experiências e formações.
@@ -54,11 +54,11 @@ Linguagens e ferramentas usadas para elaboração do projeto :
 
 ## Aplicativo
 <p align="center">
-<img src="https://github.com/JulianaAmoriN/PotifolioJAN/blob/master/image/gifTelaPort.gif?raw=true" >
+<img src="" >
 </p>
 
 ### Link Deploy
-💻👉🏽 [Portifólio Juliana Silveira](https://juliana-silveira.vercel.app/)
+💻👉🏽 [Portifólio Roberta Kelly]()
 
 
 ## Contribua
@@ -73,8 +73,5 @@ As contribuições são o que tornam a comunidade de código aberto um lugar inc
 
 ## Contato
 
-Juliana Silveira - [Linkedin](https://www.linkedin.com/in/juliana-silveira-nascimento/)- juamorim.sn@gmail.com
+Roberta Kelly - [Linkedin](https://www.linkedin.com/in/roberta-kelly/)- robertakellyfront@gmail.com
 
-## Agradecimento
- 
- - [Coding Snow ](https://www.youtube.com/channel/UCNDmzGYwwT3rdY3xQuW8QOA)
