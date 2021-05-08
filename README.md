@@ -11,7 +11,7 @@
     ·
 <a href="">Reportar Bug</a>
  ·
-<a href="portifolio-rob.vercel.app">Deploy</a>
+<a href="https://portifolio-rob.vercel.app/">Deploy</a>
 </p>
 
 <details open="open">
