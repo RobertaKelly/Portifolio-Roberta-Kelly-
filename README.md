@@ -25,6 +25,9 @@
     </li>
     <li>
       <a href="#aplicativo">Aplicativo</a> 
+     <p align="center">
+     <img src="https://raw.githubusercontent.com/RobertaKelly/Portifolio-Roberta-Kelly-/master/foto%20portifole.png">
+     </p>
        <ul>
         <li><a href="#link-deploy">Link Deploy</a></li>
       </ul>
