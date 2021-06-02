@@ -16,8 +16,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(https://www.rhaizes.com/wp-content/uploads/2021/01/christina-wocintechchat-com-UTw3j_aoIKM-unsplash.jpg)no-repeat; 
-    /*background: url(https://pixnio.com/free-images/2018/06/29/2018-06-29-22-56-44.jpg)no-repeat;*/
+    background: url(https://www.rhaizes.com/wp-content/uploads/2021/01/christina-wocintechchat-com-UTw3j_aoIKM-unsplash.jpg)no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
