@@ -40,7 +40,7 @@
 
 ## Sobre o projeto
 <p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFbmY_wXdlyxQ/profile-displayphoto-shrink_800_800/0/1616708362406?e=1625702400&v=beta&t=xGKPoVViJ3fiL97g7SGObb5OdJaZhEQV1oCPaXA2g_c" width="60%" height="40%">
+<img src="https://raw.githubusercontent.com/RobertaKelly/Portifolio-Roberta-Kelly-/a227aa2eeaaad907a2fb05062ac7f01be21c091f/image/foto%20eu%203.png">
 </p>
 
 **O Portfólio** foi desenvolvido para recrutadores conhecerem meu currículo de forma criativa,  e ter acesso ao máximo de informaçôes sobre minhas experiências e formações.
