@@ -61,7 +61,7 @@ Linguagens e ferramentas usadas para elaboração do projeto :
 </p>
 
 ### Link Deploy
-💻👉🏽 [Portifólio Roberta Kelly](https://portifolio-rob.vercel.app/)
+💻👉🏽 [Portifólio Roberta Kelly](https://robertakellyportifolio.netlify.app/)
 
 
 ## Contribua
