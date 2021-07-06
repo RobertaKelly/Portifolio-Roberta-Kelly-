@@ -24,10 +24,7 @@
       </ul>
     </li>
     <li>
-      <a href="#aplicativo">Aplicativo</a> 
-     <p align="center">
-     <img src="https://raw.githubusercontent.com/RobertaKelly/Portifolio-Roberta-Kelly-/master/foto%20portifole.png">
-     </p>
+     <a href="#aplicativo">Aplicativo</a> </li>
        <ul>
         <li><a href="#link-deploy">Link Deploy</a></li>
       </ul>
@@ -56,6 +53,9 @@ Linguagens e ferramentas usadas para elaboração do projeto :
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">   <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 
 ## Aplicativo
+ <p align="center">
+     <img src="https://raw.githubusercontent.com/RobertaKelly/Portifolio-Roberta-Kelly-/master/foto%20portifole.png">
+     </p>
 <p align="center">
 <img src="" >
 </p>
